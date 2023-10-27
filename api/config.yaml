@@ -1,0 +1,5 @@
+type: "kafka:listener"
+configuration:
+  host: "localhost"
+  port: "29092"
+  topic: "TEST"

@@ -7,6 +7,7 @@ import (
 )
 
 type KafkaListener struct {
+	config *KafkaListenerConfig
 }
 
 func (l *KafkaListener) Listen() string {
