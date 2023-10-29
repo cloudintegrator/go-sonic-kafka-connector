@@ -7,7 +7,10 @@ import (
 )
 
 type KafkaListener struct {
-	config *KafkaListenerConfig
+}
+
+func (l *KafkaListener) Init() {
+	log.Println("********** Kafka Listener initialized **********")
 }
 
 func (l *KafkaListener) Listen() string {

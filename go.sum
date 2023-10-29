@@ -17,6 +17,8 @@ github.com/cloudintegrator/go-sonic-core v0.0.0-20231025214042-0d09482c0b0f h1:w
 github.com/cloudintegrator/go-sonic-core v0.0.0-20231025214042-0d09482c0b0f/go.mod h1:FL6y/9Cxzq2nsVW5+vZX15TWel6EiKPnN4ayXUI826I=
 github.com/cloudintegrator/go-sonic-core v0.0.0-20231027110022-114ac62e5575 h1:0D/kbDhJhP4HM6s0ATkbVtE8jDpspwWOrArF79C5/qQ=
 github.com/cloudintegrator/go-sonic-core v0.0.0-20231027110022-114ac62e5575/go.mod h1:Ci8o5L20fhg9n+AYgyP6kAGsg3oSP5nJyj3OZ7lD2B8=
+github.com/cloudintegrator/go-sonic-core v0.0.0-20231028183730-0794247d33c0 h1:YooMaKhmp2ALApAzSY+fGKinpP8QfX53r09GAuOvgmE=
+github.com/cloudintegrator/go-sonic-core v0.0.0-20231028183730-0794247d33c0/go.mod h1:cp/XvfYSU2EvTrKPrElbLB1tOv0CDU2AMVtRTshjDJE=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/cncf/udpa/go v0.0.0-20201120205902-5459f2c99403/go.mod h1:WmhPx2Nbnhtbo57+VJT5O0JRkEi1Wbu0z5j0R8u5Hbk=
 github.com/cncf/udpa/go v0.0.0-20210930031921-04548b0d99d4/go.mod h1:6pvJx4me5XPnfI9Z40ddWsdw2W/uZgQLFXToKeRcDiI=
